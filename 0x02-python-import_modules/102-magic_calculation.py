@@ -12,3 +12,5 @@ def magic_calculation(a, b):
 
     else:
         return(sub(a, b))
+
+#print(magic_calculation(3, 2))
